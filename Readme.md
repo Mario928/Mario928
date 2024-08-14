@@ -42,7 +42,7 @@
         <span align="center"><img src="https://img.icons8.com/?size=100&id=114322&format=png&color=000000"/></span>
       </td>
       <td align="center">Deep Learning<br>
-        <span align="center"><img src="https://img.icons8.com/?size=100&id=cLRMWz67wQli&format=png&color=000000"/></span>
+        <span align="center"><img src="https://img.icons8.com/?size=100&id=DNtWqR6qGfix&format=png&color=000000"/></span>
       </td>
       <td align="center">JavaScript<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></span>
