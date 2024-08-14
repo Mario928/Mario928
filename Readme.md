@@ -47,15 +47,6 @@
       <td align="center">JavaScript<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></span>
       </td>
-      <td align="center">XML<br>
-        <span align="center"><img src="https://img.icons8.com/color-glass/48/000000/xml.png"/></span>
-      </td>
-      <td align="center">JSON<br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/json-download.png"/> </span>
-      </td>
-      <td align="center">MySQL<br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></span>
-      </td>
       <td align="center">React<br>
         <span align="center"><img src="https://img.icons8.com/bubbles/50/000000/react.png"/></span>
       </td>
@@ -70,6 +61,15 @@
       </td>
       <td align="center">Linux<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/linux.png"/></span>
+      </td>
+      <td align="center">XML<br>
+        <span align="center"><img src="https://img.icons8.com/color-glass/48/000000/xml.png"/></span>
+      </td>
+      <td align="center">JSON<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/json-download.png"/> </span>
+      </td>
+      <td align="center">MySQL<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></span>
       </td>
     </tr>   
   </tbody>
