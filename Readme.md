@@ -101,15 +101,11 @@
   <b>Note:</b> Top languages is only a metric of the languages that my public code has.
 
 <br/>
-<br/>
 
-<a href="https://github.com/Mario928/github-readme-activity-graph"><img alt="Prashant's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mario928&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
 
 ***
-### Some Trophies I have, don't know what for ;)
+### Some Trophies I have ;)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mario928&column=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ***
