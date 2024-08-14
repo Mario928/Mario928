@@ -2,7 +2,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prashant Shihora</h1>
-<h3 align="center">I'm a Software Developer.</h3>
+<h3 align="center">I'm a Software Developer, Data Scientist and an AI/ML Engineer</h3>
 
 
 - 📫 How to reach me **shihoraprashant49@gmail.com**
@@ -20,28 +20,33 @@
        <span style="color:green">C++</span><br>
         <span align="center"><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" width="48"/></span>
       </td>
-      <td align="center">Java<br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/java"/></span>
-      </td>
         <td align="center">Python<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/python.png"/></span>
         </td>
-       <!--
+      <td align="center">Pandas<br>
+        <span align="center"><img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"/></span>
+      </td>
+      <td align="center">FastAPI<br>
+        <span align="center"><img src="https://img.icons8.com/?size=100&id=9ZrbTFm6V0iX&format=png&color=000000"/></span>
+      </td>
+      <td align="center">PyTorch<br>
+        <span align="center"><img src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000"/></span>
+      </td>
+      <td align="center">Hugging Face<br>
+        <span align="center"><img src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000"/></span>
+      </td>
+      <td align="center">Llama<br>
+        <span align="center"><img src="https://img.icons8.com/?size=100&id=tzZXfNBcvjcc&format=png&color=000000"/></span>
+      </td>
+      <td align="center">Neural Network<br>
+        <span align="center"><img src="https://img.icons8.com/?size=100&id=114322&format=png&color=000000"/></span>
+      </td>
+      <td align="center">Deep Learning<br>
+        <span align="center"><img src="https://img.icons8.com/?size=100&id=114322&format=png&color=000000"/></span>
+      </td>
       <td align="center">JavaScript<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></span>
       </td>
-       --->
-      <td align="center"> <span style="color:green">Kotlin</span><br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/kotlin.png" width="48"/></span>
-      </td>
-      <!--
-        <td align="center">HTML<br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></span>
-      </td>
-      <td align="center">CSS<br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/css3.png" /></span>
-        </td>
-       --->
       <td align="center">XML<br>
         <span align="center"><img src="https://img.icons8.com/color-glass/48/000000/xml.png"/></span>
       </td>
@@ -51,22 +56,11 @@
       <td align="center">MySQL<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></span>
       </td>
-      <td align="center">Android Studio<br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/android-studio.png"/></span>
-      </td>
- <!---
       <td align="center">React<br>
         <span align="center"><img src="https://img.icons8.com/bubbles/50/000000/react.png"/></span>
       </td>
- --->
-      <td align="center">Firebase ML<br>
-        <span align="center"><img src="https://img.icons8.com/?size=100&id=0U744R4FqOqF&format=png&color=000000"/></span>
-      </td>
-        <td align="center">VSCode<br>
-        <span align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="48"/></span>
-      </td>
-      <td align="center">NPM<br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/npm.png"/></span>
+      <td align="center">Firebase<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></span>
       </td>
       <td align="center">Git<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/git.png"/></span>
@@ -103,17 +97,17 @@
 <br/>
 
 <br/>
-
+<!-- 
 ***
 ### Some Trophies I have ;)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mario928&column=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ***
-
+-->
 ## Connect with me:
 
 <p align="center">
 
-<a href = "https://www.linkedin.com/in/Mario928/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://in.linkedin.com/in/prashant-shihora-794a881b5" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
