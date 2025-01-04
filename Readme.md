@@ -23,6 +23,4 @@ Contributed to this LLM deployment toolkit by resolving a critical runtime issue
 ### 📫 Let's Connect!
 Feel free to reach out: ps5226@nyu.edu
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mario928&show_icons=true&theme=radical&hide=issues&hide_rank=true" />
-</p>
+ 
