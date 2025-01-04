@@ -5,9 +5,9 @@
 I'm passionate about building AI solutions and LLM-powered systems. Previously worked at LTIMindtree developing enterprise AI applications.
 
 ### 🔭 I enjoy working on:
-• 🤖 Large Language Models (LLMs)
-• 🧠 AI/ML Systems
-• 📝 Natural Language Processing
+• 🤖 Large Language Models (LLMs)  
+• 🧠 AI/ML Systems  
+• 📝 Natural Language Processing  
 
 ### 🌟 Open Source Contributions:
 #### 🔗 [LangChain](https://github.com/langchain-ai/langchain)
