@@ -1,3 +1,7 @@
+<!--
+**Mario928/Mario928** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+-->
+
 <h1 align="center">Hi there! I'm Prashant 👋</h1>
 <h3 align="center">AI/ML Engineer | MS @NYU 🎓</h3> | Ex-LTIMindtree
 
@@ -18,6 +22,4 @@ Contributed to this LLM deployment toolkit by resolving a critical runtime issue
 
 ### 📫 Let's Connect!
 Feel free to reach out: ps5226@nyu.edu
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mario928&show_icons=true&theme=radical&hide=stars,issues" />
-</p>
+ 
