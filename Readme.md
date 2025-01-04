@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi there! I'm Prashant 👋</h1>
-<h3 align="center">AI/ML Engineer | MS @NYU 🎓</h3> | Ex-LTIMindtree
+<h3 align="center">AI/ML Engineer | MS @NYU 🎓| Ex-LTIMindtree </h3>
 
 ### 🚀 About Me
 I'm passionate about building AI solutions and LLM-powered systems. Previously worked at LTIMindtree developing enterprise AI applications.
