@@ -21,6 +21,6 @@ Enhanced the framework by integrating a Java language code parser, enabling simp
 Contributed to this LLM deployment toolkit by resolving a critical runtime issue in NeoX-based models, improving the project's model serving capabilities.
 
 ### 📫 Let's Connect!
-Feel free to reach out: ps5226@nyu.edu
+Feel free to reach out: prashant.shihora@nyu.edu
  
  
